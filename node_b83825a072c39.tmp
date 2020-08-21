@@ -1,0 +1,4 @@
+from cotacao_moeda import Cotacao_moeda
+
+cotacao = Cotacao_moeda('USD')
+print(cotacao)
